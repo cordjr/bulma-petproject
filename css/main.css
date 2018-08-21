@@ -6419,5 +6419,9 @@ label.panel-block {
   background-color: #fafafa;
   padding: 3rem 1.5rem 6rem; }
 
-html {
-  background-color: white; }
+.footer {
+  background: #e00078;
+  color: white; }
+  .footer a {
+    color: #ffdd57;
+    font-weight: bold; }
